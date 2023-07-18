@@ -13,7 +13,7 @@
 import { throttle } from "lodash";
 
 export default {
-  name: "FtAdd",
+  name: "ft-add",
   props: {
     // loading管理
     loading: {
