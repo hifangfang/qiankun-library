@@ -21,7 +21,7 @@
 
 <script>
 export default {
-  name: "ft-fadein",
+  name: "FtFadein",
   props: {
     // 是否显示
     show: {

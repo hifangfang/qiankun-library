@@ -6,7 +6,7 @@
 
 <script>
 export default {
-  name: "ft-scroll"
+  name: "FtScroll"
 };
 </script>
 

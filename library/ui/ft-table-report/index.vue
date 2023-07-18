@@ -47,7 +47,7 @@
 
 <script>
 export default {
-  name: "ft-table-report",
+  name: "FtTableReport",
   props: {
     useCheckList: {
       type: Boolean,

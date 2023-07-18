@@ -15,7 +15,7 @@
 
 <script>
 export default {
-  name: 'ft-contextmenu',
+  name: 'FtContextmenu',
   props: {
     visible: {
       type: Boolean,
